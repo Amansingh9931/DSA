@@ -39,7 +39,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Perfect%20Squares">Perfect Squares (2 approaches) (Leetcode-279)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Perfect%20Squares.cpp">Perfect Squares (4 approaches) (Leetcode-279)</a>
 				</td>
 			</tr>
 			<tr>
@@ -54,12 +54,12 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Print%20the%20longest%20common%20substring">Print the longest common substring</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Print%20the%20Longest%20Common%20Substring.cpp">Print the longest common substring</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Printing%20All%20Longest%20Common%20Subsequences">Printing All Longest Common Subsequences</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Printing%20All%20Longest%20Common%20Subsequences.cpp">Printing All Longest Common Subsequences</a>
 				</td>
 			</tr>
 			<tr>
@@ -69,7 +69,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Last%20Stone%20Weight%20II">Last Stone Weight II (Leetcode-1049)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Last%20Stone%20Weight%20II.cpp">Last Stone Weight II (Leetcode-1049)</a>
 				</td>
 			</tr>
 			<tr>
@@ -169,7 +169,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Increasing%20Subsequence%20(TopDown%20%2B%20Memo)">Longest Increasing Subsequence (Leetcode - 300)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Increasing%20Subsequence.cpp">Longest Increasing Subsequence (Leetcode - 300)</a>
 				</td>
 			</tr>
 			<tr>
@@ -214,7 +214,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Burst%20Balloons">Burst Balloons (Leetcode-312)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Burst%20Balloons.cpp">Burst Balloons (Leetcode-312)</a>
 				</td>
 			</tr>
 			<tr>
@@ -234,12 +234,22 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Decode%20Ways">Decode Ways (Leetcode-91)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Decode%20Ways.cpp">Decode Ways (Leetcode-91)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Arithmetic%20Slices">Arithmetic Slices (Leetcode-413)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Decode%20Ways%20II.cpp">Decode Ways II (Leetcode-639)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Arithmetic%20Slices.cpp">Arithmetic Slices (Leetcode-413)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Arithmetic%20Slices%20II%20-%20Subsequence.cpp">Arithmetic Slices II - Subsequence (Leetcode-446)</a>
 				</td>
 			</tr>
 			<tr>
@@ -254,7 +264,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Cutting_a_Rod.cpp">Cutting a Rod (3 Approaches)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Cutting_a_Rod.cpp">Cutting a Rod (4 Approaches)</a>
 				</td>
 			</tr>
 			<tr>
@@ -269,7 +279,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest_Common_Subsequence.cpp">Longest Common Subsequence (3 approaches) (Leetcode-1143)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Common%20Subsequence.cpp">Longest Common Subsequence (3 approaches) (Leetcode-1143)</a>
 				</td>
 			</tr>
 			<tr>
@@ -350,6 +360,96 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20Number%20of%20Refueling%20Stops.cpp">Minimum Number of Refueling Stops (3 approaches) (Leetcode-871)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/K%20Inverse%20Pairs%20Array.cpp">K Inverse Pairs Array (3 approaches) (Leetcode-629)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Out%20of%20Boundary%20Paths.cpp">Out of Boundary Paths (Leetcode-576)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Sum%20Rectangular%20Submatrix%20in%20Matrix%20dynamic%20programming(2-D%20kadane).cpp">Maximum Sum Rectangular Submatrix in Matrix dynamic programming(2-D kadane)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp">Max Sum of Rectangle No Larger Than K (Leetcode-363)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Count%20Vowels%20Permutation.cpp">Count Vowels Permutation (Leetcode-1220)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Product%20Subarray.cpp">Maximum Product Subarray (Leetcode-152)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.cpp">Minimum Number of Taps to Open to Water a Garden (Leetcode-1326)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20Path%20Sum.cpp">Minimum Path Sum (Leetcode-64)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20Falling%20Path%20Sum.cpp">Minimum Falling Path Sum (Leetcode-931)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/01%20Matrix.cpp">01 Matrix (Leetcode-542)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Constrained%20Subsequence%20Sum.cpp">Constrained Subsequence Sum (Leetcode-1425)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Remove%20Boxes.cpp">Remove Boxes (Leetcode-546)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Target%20Sum.cpp">Target Sum (Leetcode-494)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Profit%20in%20Job%20Scheduling.cpp">Maximum Profit in Job Scheduling (Leetcode-1235)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Common%20Substring.cpp">Longest Common Substring</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Largest%20Plus%20Sign.cpp">Largest Plus Sign (Leetcode-764) </a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Turbulent%20Subarray.cpp">Longest Turbulent Subarray (Leetcode-978) </a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Distinct%20Subsequences.cpp">Distinct Subsequences (Leetcode-115) </a>
 				</td>
 			</tr>
 		</tbody>

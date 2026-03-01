@@ -16,7 +16,7 @@
 		<tbody>
 			<tr>
           <td>
-					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Image%20Overlap">Image Overlap (Leetcode-835)</a>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Image%20Overlap.cpp">Image Overlap (Leetcode-835)</a>
 				  </td>
       </tr>
 			<tr>
@@ -59,5 +59,45 @@
 					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Rotate%20Image">Rotate Image (Leetcode-48)</a>
 				  </td>
       			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Reshape%20The%20Matrix.cpp">Reshape the Matrix (Leetcode-566)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp">Kth Smallest Element in a Sorted Matrix (Leetcode-378)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Best%20Meeting%20Point.cpp">Best Meeting Point (Leetcode-296)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/01%20Matrix.cpp">01 Matrix (Leetcode-542)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Set%20Matrix%20Zeroes.cpp">Set Matrix Zeroes (Leetcode-73)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Valid%20Sudoku.cpp">Valid Sudoku (Leetcode-36)</a>
+				  </td>
+      			</tr>
+			<tr>
+        <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Spiral%20Matrix.cpp">Spiral Matrix (Leetcode - 54)</a>
+				</td>
+			</tr>
+			<tr>
+        <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Spiral%20Matrix%20II.cpp">Spiral Matrix II (Leetcode - 59)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

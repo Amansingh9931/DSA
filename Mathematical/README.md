@@ -31,7 +31,7 @@
 			</tr>
 			<tr>
        				 <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Reverse%20Integer">Reverse Integer (Leetcode : 7)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Reverse%20Integer.cpp">Reverse Integer (Leetcode : 7)</a>
 				</td>
 			</tr>
 			<tr>
@@ -92,6 +92,36 @@
 			<tr>
        				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Super_Palindromes.cpp">Super Palindromes(Leetcode : 906)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Random%20Point%20in%20Non-overlapping%20Rectangles.cpp">Random Point in Non-overlapping Rectangles(Leetcode : 497)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Implement%20Rand10()%20Using%20Rand7().cpp">Implement Rand10() Using Rand7() (2 approaches) (Leetcode : 470)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Minimum%20Time%20Visiting%20All%20Points.cpp">Minimum Time Visiting All Points (Leetcode : 1266)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Shuffle%20an%20Array.cpp">Shuffle an Array (Leetcode : 348)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Beautiful%20Array.cpp">Beautiful Array (Leetcode : 932)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Segmented%20Sieve.cpp">Segmented Sieve</a>
 				</td>
 			</tr>
 		</tbody>

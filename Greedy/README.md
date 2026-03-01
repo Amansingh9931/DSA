@@ -16,7 +16,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Deletion%20Cost%20to%20Avoid%20Repeating%20Letters">Minimum Deletion Cost to Avoid Repeating Letters (Leetcode-1578)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Deletion%20Cost%20to%20Avoid%20Repeating%20Letters.cpp">Minimum Deletion Cost to Avoid Repeating Letters (2 approaches) (Leetcode-1578)</a>
 				</td>
 			</tr>
 			<tr>
@@ -31,7 +31,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons">Minimum Number of Arrows to Burst Balloons (Leetcode-452)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp">Minimum Number of Arrows to Burst Balloons (3 approaches) (Leetcode-452)</a>
 				</td>
 			</tr>
 			<tr>
@@ -107,6 +107,31 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Maximum_Performance_of_a_Team.cpp">Maximum Performance of a Team (Leetcode-1383)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Non-overlapping%20Intervals.cpp">Non-overlapping Intervals (Leetcode-435)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Candy.cpp">Candy (Leetcode-135)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Fractional Knapsack.cpp">Fractional Knapsack</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Patching%20Array.cpp">Patching Array (Leetcode-330)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Break%20a%20Palindrome.cpp">Break a Palindrome (Leetcode-1328)</a>
 				</td>
 			</tr>
 		</tbody>

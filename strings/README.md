@@ -26,7 +26,7 @@
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Next%20Greater%20Element%20III">Next Greater Element III (Leetcode-556)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Next%20Greater%20Element%20III.cpp">Next Greater Element III (Leetcode-556)</a>
 				</td>
 			</tr>
 			<tr>
@@ -57,6 +57,51 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Find%20Duplicate%20File%20in%20System">Find Duplicate File in System (Leetcode-609)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Is%20Subsequence.cpp">Is Subsequence (Leetcode-392)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Compare%20Version%20Numbers.cpp">Compare Version Numbers (Leetcode-165)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Reverse%20Words%20in%20a%20String.cpp">Reverse Words in a String (Leetcode-151)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Reverse%20Words%20in%20a%20String%20II.cpp">Reverse Words in a String II (Leetcode-186)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Reverse%20Words%20in%20a%20String%20III.cpp">Reverse Words in a String III (Leetcode-557)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Multiply%20Strings.cpp">Multiply Strings (Leetcode-43)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Add%20Strings.cpp">Add Strings (Leetcode-415)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Complex%20Number%20Multiplication.cpp">Complex Number Multiplication (Leetcode-537)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Shifting%20Letters.cpp">Shifting Letters (Leetcode-848)</a>
 				</td>
 			</tr>
 		</tbody>

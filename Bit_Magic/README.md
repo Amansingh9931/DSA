@@ -2,6 +2,15 @@
 <img src="https://1.bp.blogspot.com/-71RCmZ89ljY/Vi_VOMruhGI/AAAAAAAAAnI/nVf2cJj8tac/s1600/BitManipulation.png" width="600" height="250">
 
 # Bit_Magic : :triangular_flag_on_post:
+Remember Few Things : 
+```
+- (1 << n) = 2^n . Generalised : n << x = n * 2^x
+- Similarly, n >> x = n / 2^x
+- if ( (x & (1 << i)) == 0 ) , then ith bit of x is set (i.e. 1)
+- This will help you find subset using bit manipulation. 
+```
+See <a href= "https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Subsets.cpp">Subsets</a> And <a href= "https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Calculate%207n%5C8%20without%20using%20division%20and%20multiplication.cpp">This</a> for Questions based on above.
+
 
 <h1>Questions</h1>
 <table id = "example" class="SectionTable display" >
@@ -21,7 +30,7 @@
 			</tr>
 			<tr>
        				 <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array">SMaximum XOR of Two Numbers in an Array (Leetcode-421)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp">Maximum XOR of Two Numbers in an Array (Leetcode-421)</a>
 				</td>
 			</tr>
 			<tr>
@@ -47,6 +56,31 @@
 			<tr>
        				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Maximum_Product_of_Word_Lengths.cpp">Maximum Product of Word Lengths (Leetcode-318)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Gray%20Code.cpp">Gray Code (Leetcode-89)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp">Find the Longest Substring Containing Vowels in Even Counts (Leetcode-1371)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Subsets.cpp">Subsets (Leetcode-78)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Partition%20Array%20Into%20Two%20Arrays%20to%20Minimize%20Sum%20Difference.cpp">Partition Array Into Two Arrays to Minimize Sum Difference (Leetcode-2035)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Calculate%207n%5C8%20without%20using%20division%20and%20multiplication.cpp">Calculate 7n\8 without using division and multiplication</a>
 				</td>
 			</tr>
 		</tbody>

@@ -11,7 +11,7 @@
 		<tbody>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Merge%20Intervals">Merge Intervals (Leetcode-56)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Merge%20Intervals.cpp">Merge Intervals (Leetcode-56)</a>
 				</td>
 			</tr>
       			<tr>
@@ -21,22 +21,22 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Insert%20Interval">Insert Interval (Leetcode-57)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Insert%20Interval.cpp">Insert Interval (2 approaches) (Leetcode-57)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Meeting%20Rooms">Meeting Rooms (Leetcode-252)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Meeting%20Rooms.cpp">Meeting Rooms (Leetcode-252)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Meeting%20Rooms%20II">Meeting Rooms II (Leetcode-253)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Meeting%20Rooms%20II.cpp">Meeting Rooms II (Leetcode-253)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Find%20Right%20Interval%20(Good%20and%20Clean%20Approach)">Find Right Interval (Leetcode-436)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Find%20Right%20Interval.cpp">Find Right Interval (4 approaches) (Leetcode-436)</a>
 				</td>
 			</tr>
 			<tr>
@@ -52,6 +52,26 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Meeting_Scheduler.cpp">Meeting Scheduler (Leetcode-1229)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Non-overlapping%20Intervals.cpp">Non-overlapping Intervals (Leetcode-435) (Falls under Greedy Category as well)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp">Minimum Number of Arrows to Burst Balloons (3 approaches) (Leetcode-452) (Falls under Greedy Category as well)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair.cpp">The Number of the Smallest Unoccupied Chair (Leetcode-1942)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Interval%20List%20Intersections.cpp">Interval List Intersections (Leetcode-986)</a>
 				</td>
 			</tr>
 		</tbody>

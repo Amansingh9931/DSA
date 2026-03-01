@@ -45,8 +45,13 @@
 				</td>
 			</tr>
 			<tr>
-        <td>
+        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20HashMap">Design HashMap (Leetcode - 706)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20HashSet.cpp">Design HashSet (Leetcode - 705)</a>
 				</td>
 			</tr>
 			<tr>
@@ -76,7 +81,7 @@
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Max%20Stack">Max Stack (Leetcode - 716)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Max%20Stack.cpp">Max Stack (Leetcode - 716)</a>
 				</td>
 			</tr>
 			<tr>
@@ -85,8 +90,28 @@
 				</td>
 			</tr>
 			<tr>
-        <td>
+        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Insert_Delete_GetRandom_O(1).cpp">Insert Delete GetRandom O(1) (Leetcode - 380)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Find%20Median%20from%20Data%20Stream.cpp">Find Median from Data Stream(Leetcode - 295)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Map%20Sum%20Pairs.cpp">Map Sum Pairs(Leetcode - 677)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Implement%20Stack%20using%20Queues.cpp">Implement Stack using Queues(Leetcode - 225)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Operations%20on%20Tree.cpp">Operations on Tree(Leetcode - 1993)</a>
 				</td>
 			</tr>
 		</tbody>

@@ -11,7 +11,7 @@
 		<tbody>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Verifying_an_Alien_Dictionary.cpp">Verifying an Alien Dictionary (Leetcode-953)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Verifying%20an%20Alien%20Dictionary.cpp">Verifying an Alien Dictionary (Leetcode-953)</a>
 				</td>
 			</tr>
 			<tr>
@@ -37,6 +37,31 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Palindrome%20Pairs.cpp">Palindrome Pairs (Leetcode-336)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Number%20of%20Matching%20Subsequences.cpp">Number of Matching Subsequences (Leetcode-792)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Partition%20Labels.cpp">Partition Labels (Leetcode-763)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Bulls%20and%20Cows.cpp">Bulls and Cows (Leetcode-299)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Custom%20Sort%20String.cpp">Custom Sort String (Leetcode-791)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Array%20of%20Doubled%20Pairs.cpp">Array of Doubled Pairs (Leetcode-954)</a>
 				</td>
 			</tr>
 		</tbody>

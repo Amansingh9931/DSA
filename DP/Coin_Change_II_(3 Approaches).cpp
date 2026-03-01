@@ -7,14 +7,18 @@
 class Solution {
 public:
     int solve(vector<int>& S, int n, int sum, vector<vector<int>>& t) {
+        //There is only one combination that sum upto sum=0 i.e. when we take 0 coin. So, 1 way
         if(sum == 0)
             return t[n][sum] = 1;
+        
+        //if(we have no coin then we can't do anything about it. So, 0 way
         if(n == 0 || sum < 0)
             return 0;
         
         if(t[n][sum] != -1)
             return t[n][sum];
         
+                                //taken                       //not taken
         return t[n][sum] = (solve(S, n, sum-S[n-1], t) + solve(S, n-1, sum, t));
     }
     int change(int amount, vector<int>& coins) {
@@ -69,7 +73,7 @@ public:
         for(int i = 0; i<n; i++) {
             //I select a coin coins[i] and find # ways to get coins[i], coins[i]+1...until amount
             int curr_coin = coins[i];
-            for(int j = curr_coin; j<=amount ; j++) { //we could start from j = 1; j<=amount and add a condition if( >=curr_coin)
+            for(int j = curr_coin; j<=amount ; j++) {
                 int remain_amount = j-curr_coin; //Kis kis amount me tumne curr_coin add kara hoga to reach j
                 
                 //ways[remain_amount] = # ways to get amount "remain_amount"

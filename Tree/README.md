@@ -7,7 +7,8 @@ Another good resource to find all tree concepts at one spot : <a href=  "https:/
 <details>
   <summary>:arrow_down_small:Click to :mag: and :dizzy_face: the sub-topics (Example : N-Ary Tree etc.)</summary>
   
-  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Tree/N-Ary%20Tree">:file_folder:N-Ary Tree</a>
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Tree/N-Ary%20Tree">:file_folder:N-Ary Tree</a> <br> 
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Tree/BST">:file_folder:Binary Search Tree</a>
 </details>
 
 
@@ -79,7 +80,7 @@ Another good resource to find all tree concepts at one spot : <a href=  "https:/
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Path%20Sum%20II">Path Sum II (Leetcode-113)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Path%20Sum%20II.cpp">Path Sum II (Leetcode-113)</a>
 				</td>
 			</tr>
 			<tr>
@@ -144,7 +145,7 @@ Another good resource to find all tree concepts at one spot : <a href=  "https:/
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Find%20Leaves%20Of%20Binary%20Tree">Find Leaves Of Binary Tree (Leetcode-366)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Find%20Leaves%20Of%20Binary%20Tree.cpp">Find Leaves Of Binary Tree (Leetcode-366)</a>
 				</td>
 			</tr>
 			<tr>
@@ -174,12 +175,17 @@ Another good resource to find all tree concepts at one spot : <a href=  "https:/
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20in%20a%20Binary%20Tree">Lowest Common Ancestor in a Binary Tree (Leetcode-236)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20in%20a%20Binary%20Tree.cpp">Lowest Common Ancestor in a Binary Tree (Leetcode-236)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree">Lowest Common Ancestor Of a Binary Search Tree (Leetcode-235)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp">Lowest Common Ancestor Of a Binary Search Tree (Leetcode-235)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.cpp">Lowest Common Ancestor of Deepest Leaves (Leetcode-1123)</a>
 				</td>
 			</tr>
 			<tr>
@@ -275,6 +281,36 @@ Another good resource to find all tree concepts at one spot : <a href=  "https:/
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Cameras(3%20approaches)">Binary Tree Cameras (Leetcode-968)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Pruning.cpp">Binary Tree Pruning (Leetcode-814)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Longest%20Consecutive%20Sequence%20I.cpp">Binary Tree Longest Consecutive Sequence I (Leetcode-298)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.cpp">Binary Tree Longest Consecutive Sequence II (Leetcode-549)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Count%20Good%20Nodes%20in%20Binary%20Tree.cpp">Count Good Nodes in Binary Tree (Leetcode-1448)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Merge%20Two%20Binary%20Trees.cpp">Merge Two Binary Trees (Leetcode-617)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Subtree%20of%20Another%20Tree.cpp">Subtree of Another Tree (Leetcode-572)</a>
 				</td>
 			</tr>
 		</tbody>

@@ -12,6 +12,8 @@
   <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays/Binary%20Search">:file_folder:Binary Search</a>
 
   <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays/Two%20Pointer">:file_folder:Two Pointer</a>
+	
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays/Cumulative_Sum(Prefix%20Array)">:file_folder:Cumulative_Sum(Prefix Array)</a>
 </details>
 
 <h1>Questions</h1>
@@ -32,12 +34,12 @@
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Product%20of%20Array%20Except%20Self(3%20Approaches-Leetcode:238)">Product of Array Except Self(3 Approaches-Leetcode:238)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Product%20of%20Array%20Except%20Self.cpp">Product of Array Except Self (Leetcode:238)</a>
 				</td>
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Group%20Anagrams">Group Anagrams(2 Approaches-Leetcode:49)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Group%20Anagrams.cpp">Group Anagrams(2 Approaches-Leetcode:49)</a>
 				</td>
 			</tr>
 			<tr>
@@ -72,7 +74,7 @@
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Subarray%20Sums%20Divisible%20by%20K%20:%20O(n)">Subarray Sums Divisible by K (Leetcode - 974)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Subarray%20Sums%20Divisible%20by%20K%20.cpp">Subarray Sums Divisible by K (3 approaches) (Leetcode - 974)</a>
 				</td>
 			</tr>
 			<tr>
@@ -87,27 +89,17 @@
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Spiral%20Matrix">Spiral Matrix (Leetcode - 54)</a>
-				</td>
-			</tr>
-			<tr>
-        <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Spiral%20Matrix%20II">Spiral Matrix II (Leetcode - 59)</a>
-				</td>
-			</tr>
-			<tr>
-        <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/K%20closest%20elements">K closest elements</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Majority%20Element%20(Moore's%20Voting)">Majority Element (Moore's Voting) (Leetcode - 169)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Majority%20Element%20(Moore's%20Voting).cpp">Majority Element (Moore's Voting) (Leetcode - 169)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Majority%20Element%20II">Majority Element II (Moore's Voting) (Leetcode - 229)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Majority%20Element%20II.cpp">Majority Element II (Moore's Voting) (Leetcode - 229)</a>
 				</td>
 			</tr>
 			<tr>
@@ -127,17 +119,17 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Maximum%20Product%20Subarray">Maximum Product Subarray (Leetcode - 152)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060">Pairs of Songs With Total Durations Divisible by 60 (Leetcode - 1010)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pairs%20which%20are%20Divisible%20by%204">Pairs which are Divisible by 4 (Microsoft)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/4Sum(kSum).cpp">4Sum (Leetcode - 18)</a>
 				</td>
 			</tr>
 			<tr>
@@ -178,6 +170,76 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Maximum_Area_of_a_Piece_of%20Cake_After_Horizontal_and_Vertical_Cuts.cpp">Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (Leetcode - 1465)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pascal's%20Triangle.cpp">Pascal's Triangle (2 approaches) (Leetcode - 118)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pancake%20Sorting.cpp">Pancake Sorting (Leetcode - 969)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Count%20of%20Smaller%20Numbers%20After%20Self.cpp">Count of Smaller Numbers After Self (Leetcode - 315)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Max%20Consecutive%20Ones%20II.cpp">Max Consecutive Ones II (Leetcode - 487)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Factorials%20of%20large%20numbers.cpp">Factorials of large numbers</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Minimum%20Lights%20to%20Activate.cpp">Minimum Lights to Activate</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Three%20Equal%20Parts.cpp">Three Equal Parts (Leetcode - 927)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Max%20Chunks%20To%20Make%20Sorted.cpp">Max Chunks To Make Sorted (Leetcode - 769)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Max%20Chunks%20To%20Make%20Sorted%20II.cpp">Max Chunks To Make Sorted II (Leetcode - 768)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Partition%20Array%20into%20Disjoint%20Intervals.cpp">Partition Array into Disjoint Intervals (Leetcode - 915)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Longest%20Harmonious%20Subsequence.cpp">Longest Harmonious Subsequence (Leetcode - 594)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Wiggle%20Sort.cpp">Wiggle Sort (Leetcode - 280)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Fair%20Candy%20Swap.cpp">Fair Candy Swap (Leetcode - 888)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Array%20Nesting.cpp">Array Nesting (Leetcode - 565)</a>
 				</td>
 			</tr>
 		</tbody>

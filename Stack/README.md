@@ -46,7 +46,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Remove%20All%20Adjacent%20Duplicates%20In%20String">Remove All Adjacent Duplicates In String(Leetcode - 1047)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp">Remove All Adjacent Duplicates In String(Leetcode - 1047)</a>
 				</td>
 			</tr>
 			<tr>
@@ -72,6 +72,11 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Decode%20String">Decode String (Leetcode-394)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Basic%20Calculator.cpp">Basic Calculator (Leetcode-224)</a>
 				</td>
 			</tr>
 			<tr>

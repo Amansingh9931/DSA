@@ -1,10 +1,11 @@
 /*
     Company Tags : Amazon, Samsung (variation of this question)
-    Link to Qn   : https://www.youtube.com/watch?v=Q1fLW_zQr3M
 */
 
 /*
-Qn : You are given an array of n integers. You have to divide these n integers into 2 subsets such that difference of sum of two subsets is as minimum as possible.
+Qn : You are given an array of n integers. You have to divide these n integers into 2 subsets such that difference of sum of two subsets is
+as minimum as possible. 
+Constraints - 
 a) If n is even, both subsets will contain exactly n/2 elements.
 b) If n is odd, one of the subsets will contain (n-1)/2 elements and other will contain (n+1)/2 elements.
 
@@ -21,6 +22,7 @@ Output:
     Note :
     (1) If in the question above, the constraints (a) and (b) were not given then this question is nothing but "Minimum Sum Partition" problem.
         Link to it is : https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20sum%20partition%20(Memoization%20and%20TopDown)
+    (3) If we only had even number of elements always, this qn would be similar to Leetcode-2035 (Check it out in my Bit_Magic section)
     (2) You can also store the results (set1 and set2) which results in minimum difference and print them if asked by interviewer
 */
 

@@ -26,11 +26,6 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Max_Area_of_Island.cpp">Max Area of Island (Leetcode : 695)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Generate%20Parentheses%20(O(n*2%5En))">Generate Parentheses (O(n*2^n)) (Leetcode : 22)</a>
 				</td>
 			</tr>
@@ -51,7 +46,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Subsets%20II">Subsets II (Leetcode : 90)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Subsets%20II.cpp">Subsets II (Leetcode : 90)</a>
 				</td>
 			</tr>
 			<tr>
@@ -71,12 +66,12 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Partition%20to%20K%20Equal%20Sum%20Subsets%20(Method-1)">Partition to K Equal Sum Subsets(Leetcode : 698)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Partition%20to%20K%20Equal%20Sum%20Subsets.cpp">Partition to K Equal Sum Subsets (2 approaches) (Leetcode : 698)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Sequential%20Digits">Sequential Digits(Leetcode : 1291)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Sequential%20Digits.cpp">Sequential Digits(Leetcode : 1291)</a>
 				</td>
 			</tr>
 			<tr>
@@ -132,6 +127,21 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/N-Queens_II.cpp">N-Queens II (2 approaches) (Leetcode-52)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Matchsticks%20to%20Square.cpp">Matchsticks to Square (Leetcode-473)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Sudoku%20Solver.cpp">Sudoku Solver (Leetcode-37)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Expression%20Add%20Operators.cpp">Expression Add Operators (Leetcode-282)</a>
 				</td>
 			</tr>
 		</tbody>

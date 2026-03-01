@@ -11,7 +11,7 @@
 		<tbody>
 			<tr>
           <td>
-					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array">Find Minimum in Rotated Sorted Array (Leetcode-153)</a>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp">Find Minimum in Rotated Sorted Array (Leetcode-153)</a>
 				  </td>
       </tr>
       <tr>
@@ -51,7 +51,32 @@
       			</tr>
 			<tr>
           			  <td>
-					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20K%20Closest%20Elements">Find K Closest Elements (Leetcode-658)</a>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20K%20Closest%20Elements.cpp">Find K Closest Elements (Leetcode-658)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Shortest%20Distance%20to%20Target%20Color.cpp">Shortest Distance to Target Color (Leetcode-1182)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Number%20of%20Matching%20Subsequences.cpp">Number of Matching Subsequences (Leetcode-792)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Median%20of%20Two%20Sorted%20Arrays.cpp">Median of Two Sorted Arrays (Leetcode-4)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp">Capacity To Ship Packages Within D Days (Leetcode-1011)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20the%20Rotation%20Count%20in%20Rotated%20Sorted%20array.cpp">Find the Rotation Count in Rotated Sorted array</a>
 				  </td>
       			</tr>
 		</tbody>

@@ -4,6 +4,12 @@
 Another good source for all Graph Algorithms at one spot : <a href = "https://leetcode.com/discuss/study-guide/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu/971044">Graaaaaphs 🔭</a>
 
 # Graph : :triangular_flag_on_post:
+<details>
+  <summary>:arrow_down_small:Click to :mag: and :dizzy_face: the sub-topics (Example : BFS, DFS)</summary>
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Graph/BFS_DFS">:file_folder:BFS_DFS</a><br>
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Graph/Disjoint%20Set">:file_folder:Disjoint Set</a><br>
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Graph/Topological%20Sorting">:file_folder:Topological Sorting</a>
+</details>
 
 <h1>Questions</h1>
 <table id = "example" class="SectionTable display" >
@@ -19,16 +25,6 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			<tr>
         <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/DFS%20Traversal%20(Iterative%20%26%20Recursive)">DFS Traversal (Iterative & Recursive)</a>
-				</td>
-			</tr>
-			<tr>
-        <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Topological%20Sort%20(Using%20DFS)">Topological Sort (Using DFS)</a>
-				</td>
-			</tr>
-			<tr>
-        <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Topological%20Sort%20(Using%20BFS:%20Kahn's%20Algorithm)">Topological Sort (Using BFS: Kahn's Algorithm)</a>
 				</td>
 			</tr>
 			<tr>
@@ -49,16 +45,6 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			<tr>
         <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Check%20If%20Two%20Nodes%20Are%20On%20Same%20Path%20In%20A%20Graph">Check If Two Nodes Are On Same Path In A Graph (DFS)</a>
-				</td>
-			</tr>
-			<tr>
-        <td>
-					<a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2020/blob/master/Course%20Schedule%20(C%2B%2B)">Course Schedule (Cycle Detection : Leetcode - 207)</a>
-				</td>
-			</tr>
-			<tr>
-        <td>
-					<a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2020/blob/master/Course%20Schedule%20II%20(C%2B%2B)">Course Schedule II (Topological Sort : Leetcode - 210)</a>
 				</td>
 			</tr>
 			<tr>
@@ -134,6 +120,11 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			<tr>
        				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Word_Ladder.cpp">Word Ladder (Leetcode-127)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Word%20Ladder%20II.cpp">Word Ladder II (Leetcode-126)</a>
 				</td>
 			</tr>
 			<tr>
@@ -249,6 +240,21 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			<tr>
        				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Island%20Perimeter.cpp">Island Perimeter (3 approaches) (Leetcode : 463)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Swim%20in%20Rising%20Water.cpp">Swim in Rising Water (2 approaches) (Leetcode : 778)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/All%20Paths%20from%20Source%20Lead%20to%20Destination.cpp">All Paths from Source Lead to Destination (PREMIMUM) (Leetcode : 1059)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Redundant%20Connection.cpp">Redundant Connection (4 approaches) (Leetcode : 684)</a>
 				</td>
 			</tr>
 		</tbody>
